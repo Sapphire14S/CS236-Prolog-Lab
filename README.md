@@ -118,31 +118,6 @@ The assignment focuses on implementing fundamental and advanced Prolog predicate
 
 ---
 
-## Key Concepts Implemented
-
-- Logic Programming
-- Predicate Logic
-- Recursive Programming
-- Backtracking
-- Negation as Failure
-- Symbolic Computation
-- Pattern Matching
-- List Processing
-- Database Reasoning
-- Arithmetic Evaluation
-- Custom Operators
-- Declarative Programming
-
----
-
-## Academic Information
-
-- **Course:** CS236 — Artificial Intelligence Lab
-- **Institute:** Indian Institute of Information Technology Guwahati
-- **Department:** Computer Science and Engineering
-
----
-
 ## Author
 
 **Shivank Kumar**  
