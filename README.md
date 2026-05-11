@@ -1,0 +1,1 @@
+# CS236-Prolog-Lab
