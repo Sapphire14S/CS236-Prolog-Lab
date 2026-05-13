@@ -12,7 +12,7 @@ CS236-Prolog-Lab/
 ├── README.md
 ├── LICENSE
 │
-├── Assignment_12/
+├── Lab_12/
 │   ├── Assignment_12.pdf
 │   ├── 01.pl
 │   ├── 02.pl
